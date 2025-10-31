@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8" />
+    <!-- Viewport per layout responsive anche su mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Scatterplot Cyclists</title>
+
+    <!-- D3 v7 da CDN per la costruzione del grafico -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+
+    <!-- Stili dell’app -->
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <!--
+      Toggle tema (chiaro/scuro)
+      - stesso pattern del progetto "bar chart"
+      - elemento accessibile (ruolo button + tabindex)
+    -->
+    <span id="theme-toggle" class="theme-icon" role="button" tabindex="0" aria-label="Cambia tema"
+        title="Cambia tema">🌙</span>
+
+    <!--
+      Contenitore principale (card con effetto glass)
+      - titolo
+      - sottotitolo
+      - svg che userà D3
+      - tooltip e legenda autosufficienti
+    -->
+    <div id="container">
+        <!-- Title richiesto -->
+        <h1 id="title">Doping in Professional Bicycle Racing</h1>
+        <p id="subtitle">35 fastest times up Alpe d'Huez</p>
+
+        <!-- Area di disegno del grafico (gestita da D3) -->
+        <svg id="chart" width="900" height="520"></svg>
+
+        <!-- Tooltip assoluto, gestito via JS -->
+        <div id="tooltip"></div>
+
+        <!-- Legenda separata  -->
+        <div id="legend" aria-label="Legenda"></div>
+    </div>
+
+    <!-- Script app -->
+    <script src="script.js" defer></script>
+
+</body>
+
+</html>
