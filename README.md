@@ -36,7 +36,7 @@ L’interfaccia è stata realizzata in **HTML**, **CSS** e **JavaScript puro**, 
 
 ### 💻 Codice sorgente
 
-📂 **Repository:** [https://github.com/cgiuseppe8786/ScatterplotGraphDataVisualization/](https://github.com/cgiuseppe8786/ScatterplotDataVisualization/)
+📂 **Repository:** [[https://github.com/cgiuseppe8786/ScatterplotGraphDataVisualization/](https://github.com/cgiuseppe8786/ScatterplotGraphDataVisualization/).
 
 ---
 
