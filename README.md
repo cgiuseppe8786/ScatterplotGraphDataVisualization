@@ -30,13 +30,13 @@ L’interfaccia è stata realizzata in **HTML**, **CSS** e **JavaScript puro**, 
 
 ### 🚀 Demo
 
-👉 **Live Preview:** [https://cgiuseppe8786.github.io/ScatterplotGraphDataVisualization/](https://cgiuseppe8786.github.io/ScatterplotGraphDataVisualization/)  
+👉 **Live Preview:** [https://cgiuseppe8786.github.io/ScatterplotGraphDataVisualization/](https://cgiuseppe8786.github.io/ScatterplotGraphDataVisualization/).  
 
 ---
 
 ### 💻 Codice sorgente
 
-📂 **Repository:** [[https://github.com/cgiuseppe8786/ScatterplotGraphDataVisualization/](https://github.com/cgiuseppe8786/ScatterplotGraphDataVisualization/).
+📂 **Repository:** [https://github.com/cgiuseppe8786/ScatterplotGraphDataVisualization/](https://github.com/cgiuseppe8786/ScatterplotGraphDataVisualization/).
 
 ---
 
